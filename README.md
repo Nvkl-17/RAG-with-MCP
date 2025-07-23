@@ -24,3 +24,8 @@ This project implements a **Retrieval-Augmented Generation (RAG)** chatbot using
 ```bash
 git clone https://github.com/your-username/rag-mcp-chatbot.git
 cd rag-mcp-chatbot
+```
+## output
+
+<img width="1920" height="1022" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/b2a7114b-5dac-4906-892f-3e89a97369b6" />
+
